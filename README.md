@@ -24,3 +24,4 @@ Once you have done it, you should name the name, "*Multitool."
 
 Lastly, go to the URL and put "Javascript:" and then paste the code into it. (no spaces!)
 
+(also only use it for yourself and if your friends let it in their quiz)
